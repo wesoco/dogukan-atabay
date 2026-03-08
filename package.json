@@ -1,0 +1,9 @@
+{
+  "name": "dogukan-atabay",
+  "private": true,
+  "scripts": {
+    "dev": "cd next-site && npm run dev",
+    "build": "cd next-site && npm run build",
+    "start": "cd next-site && npm run start"
+  }
+}

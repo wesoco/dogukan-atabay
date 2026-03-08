@@ -1,0 +1,5 @@
+@import "./site.css";
+
+body {
+  font-family: var(--font-outfit), "Outfit", sans-serif;
+}
