@@ -1,9 +1,9 @@
-const INSTAGRAM_URL = "https://www.instagram.com/trabzonvaristedavisi/";
+import { SITE_CONFIG } from "@/lib/content";
 
 export function SocialMediaBar() {
   return (
     <a
-      href={INSTAGRAM_URL}
+      href={SITE_CONFIG.instagram}
       target="_blank"
       rel="noopener noreferrer"
       className="social-media-bar"

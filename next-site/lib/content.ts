@@ -1882,6 +1882,7 @@ export const SITE_CONFIG = {
   address: "Kemerkaya, İller Sk. 27-29, İmperial Hastanesi – Ortahisar/Trabzon",
   hours: "Pazartesi – Cuma: 08:00 – 17:00\nCumartesi: 08:00 – 13:00\nPazar: Kapalı",
   whatsapp: "https://wa.me/905339483076",
+  instagram: "https://www.instagram.com/trabzonvaristedavisi/",
   mapsEmbed:
     "https://maps.google.com/maps?q=Kemerkaya,+%C4%B0ller+Sk.+27-29,+%C4%B0mperial+Hastanesi,+Ortahisar,+Trabzon&output=embed",
 };
